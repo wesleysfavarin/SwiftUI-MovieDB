@@ -13,3 +13,4 @@ SwiftUI MovieDB prototype app built with Xcode 11 Beta & macOS 10.15 Catalina
 - Clone the Repository
 - Get the API Key from https://developers.themoviedb.org/3/
 - Put API Key in MovieService.swift apiKey constant
+000
